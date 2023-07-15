@@ -22,7 +22,7 @@
 
 ## Description
 
-![Notepad](notepad.png)
+![Notepad](edit.png)
 
 This is a simple notepad application developed in Python using PyQt5. The application allows the user to create, open, save, and edit text files. It also supports different themes for user customization.
 
